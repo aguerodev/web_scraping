@@ -1,0 +1,28 @@
+---
+title: "Pregutnas Frecuentes"
+subtitle: ""
+author: ""
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+---
+
+## ¿Qué es Aprende Tidyverse?
+
+Somos una organización que busca hacer accesible el aprendizaje del lenguaje R a profesionales, académicos y estudiantes en toda América Latina. Ofrecemos desde cursos gratuitos para que puedas comenzar hasta cursos más avanzados enfocados a profesionales. Ofrecemos descuentos de hasta el 100% para estudiantes de pregrado y miembros de comunidades poco representadas en STEM y personas de países con limitaciones para pagos en línea.
+
+## ¿Cómo puedo ver la grabación?
+La grabación de las sesiones te llegará de forma automática a WhatsApp una vez terminada la clase, junto con un resumen de los temas vistos. Recuerda descargar los materiales ya que solamente estarán en línea por 7 días.
+
+## ¿Dan algún certificado?
+Este curso incluye un certificado, emitido por la plataforma [certifier](https://certifier.io/) y compatible con LinkedIn. Para poder acceder a este, debes participar de al menos 2 sesiones se seguimiento a lo largo del curso y completar el proyecto final.
+
+## No tengo computadora, ¿puedo participar?
+Las clases y prácticas están diseñadas para ser vistas desde una computadora. Si por algún motivo debes asistir desde un dispositivo móvil o una tablet, por favor contacta al instructor vía WhatsApp en [https://wa.me/50683725899](https://wa.me/50683725899) para que lo tome en cuenta a la hora de formar grupos de trabajo.
+
+## ¿Puedo proponer ejercicios o cambios?
+¡Claro! Siempre estamos abiertos a modificaciones y propuestas. Si tienes algún dataset en mente, coméntalo con el instructor por WhatsApp [https://wa.me/50683725899](https://wa.me/50683725899) o al email info@aprendetidyverse.com y lo evaluaremos para agregar en las siguientes sesiones.
+
+

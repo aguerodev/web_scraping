@@ -1,0 +1,29 @@
+---
+title: "Paquetes en R 📦"
+subtitle: "Agregando nuevas funcionalidades el lenguaje"
+date: "last-modified"
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+bibliography: references.bib
+---
+
+<link rel="stylesheet" href="https://unpkg.com/keyboard-css@1.2.2/dist/css/main.min.css" />
+
+
+## Historia rápida de R y Rstudio
+
+R es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell [@Ihaka1996].
+
+En 2000, se lanzó la versión 1.0 de R [@RCoreTeam2008]. Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.
+
+RStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 [@Allaire2011]. RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.
+
+En los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común [@Wickham2019].
+
+Este enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.
+
+Para comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del "[Tidyverse design guide](https://tidyverse.tidyverse.org/articles/manifesto.html)" [@Wickham2019Guide].
+Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente.

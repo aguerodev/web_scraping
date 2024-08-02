@@ -1,0 +1,19 @@
+---
+title: "Conociendo Rstudio"
+subtitle: "Repaso rápido de las funcionales básicas"
+date: "last-modified"
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+bibliography: references.bib
+---
+
+<link rel="stylesheet" href="https://unpkg.com/keyboard-css@1.2.2/dist/css/main.min.css" />
+
+
+
+## Ejecutar código
+
+<p>Press <kbd>Ctrl</kbd> + <kbd>Enter</kbd> or <kbd>⌘</kbd> + <kbd>Enter</kbd> to execute the command.</p>

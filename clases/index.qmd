@@ -1,0 +1,54 @@
+---
+title: "Introducción a ggplot2 y shiny"
+subtitle: "📊✨reando Análisis Interactivos"
+lang: "es"
+toc: true
+comments: false
+author: ""
+---
+
+¡Hola y bienvenidos a nuestro taller intensivo de 2 semanas sobre visualización de datos con ggplot2 y Shiny! Estoy muy emocionado de tenerte aquí y de acompañarte en este viaje de aprendizaje.
+
+## Objetivos del Taller
+El principal objetivo de este taller es proporcionarte las herramientas y conocimientos necesarios para crear visualizaciones de datos efectivas y aplicaciones interactivas utilizando ggplot2 y Shiny. Al finalizar el taller, deberías sentirte cómodo con:
+
+- Comprender la estructura y lógica de un gráfico en ggplot2: Desarrollar una sólida comprensión de cómo funciona ggplot2 y cómo utilizarlo para crear gráficos diversos como gráficos de barras, líneas, puntos, boxplots e histogramas.
+
+- Conceptos básicos de teoría del color para visualización de datos: Aprender a aplicar teoría del color para mejorar la estética y la legibilidad de tus gráficos.
+
+- Desarrollo de mapas: Crear mapas del mundo y mapas específicos de Costa Rica utilizando ggplot2.
+
+- Introducción a Shiny y sus componentes esenciales: Comprender la estructura de una aplicación Shiny y cómo utilizar inputs, outputs, renders, reactiveValues, eventReactive, observers, entre otros.
+
+- Entender el concepto de reactividad: Dominar cómo funciona la reactividad en Shiny y cómo aprovecharla para crear aplicaciones interactivas.
+
+- Crear un diagrama de funcionamiento de una app con Shiny: Aprender a esquematizar el flujo y funcionamiento de una aplicación Shiny.
+
+- Desplegar una aplicación Shiny en shinyapps.io: Adquirir las habilidades necesarias para poner en línea tus aplicaciones Shiny y compartirlas con el mundo.
+
+
+## Sobre el Instructor
+<style>
+.add-space {
+  padding-right: 1%;
+}
+</style>
+
+:::: {.columns}
+
+::: {.column width="20%" .add-space}
+![](me.png){width=100%}
+:::
+
+::: {.column width="70%"}
+
+  👋 Hola, soy [Carlos Aguero](www.linkedin.com/in/carlos-aguero-cr). Soy ingeniero en sistemas de información y, desde 2016, me dedico a enseñar a personas de todas las áreas y niveles de formación a programar en R.
+
+📚 Formo parte del listado de [instructores certificados por RStudio](https://education.rstudio.com/trainers/), enfocándome en **Tidyverse** y **Shiny**. En diciembre de 2023, tuve el gusto de unirme a los instructores de la organización [Software Carpentry](https://www.software-carpentry.org).
+:::
+
+::::
+
+
+
+🚀 Actualmente, tengo mi propio proyecto llamado [Aprende Tidyverse](https://aprendetidyverse.com), donde buscamos ayudar a todos a aprender R y Tidyverse de forma sencilla y a su ritmo.

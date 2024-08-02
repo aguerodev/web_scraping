@@ -1,0 +1,30 @@
+---
+title: "Obtener Ayuda"
+subtitle: ""
+author: ""
+lang: "es"
+toc: true
+code-line-numbers: true
+code-copy: true
+format: html
+---
+
+💡 Necesitas ayuda, es normal. Estos no son temas sencillos y a todos nos tomó varios intentos hasta poder comprenderlos.
+
+¿Qué te parece si practicamos? En el botón puedes acceder a mi calendario privado y programar una sesión de Zoom. 🗓️ Ahí puedes contarme en qué estás trabajando y veremos cómo puedo ayudarte a resolver tus dudas.
+
+📅 La sesión de consulta es individual, tiene una duración de 45 minutos y se realiza por Zoom.
+
+[Programar una reunión](https://cal.com/aprendetidyverse/reuniones-1h){.btn .btn-outline-primary .btn role="button"} 
+
+📱 Si tu consulta es muy corta y no requiere ver código o compartir pantalla, puedes escribirme por WhatsApp.
+
+
+[Escribir a Whatsapp](https://wa.me/50683725899){.btn .btn-outline-primary .btn role="button"} 
+
+---
+
+🚨 Si necesitas reportar algún incidente, puedes hacerlo en el siguiente enlace: [https://tally.so/r/3EP4r2](https://tally.so/r/3EP4r2).
+
+🛡️ Estamos comprometidos a ofrecer un ambiente educativo seguro y acogedor para todos. Tu reporte será manejado con la mayor confidencialidad y seriedad para asegurar un entorno respetuoso y libre de inconvenientes.
+

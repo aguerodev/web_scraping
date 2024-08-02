@@ -1,0 +1,68 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+  output-dir: docs
+  preview:
+    port: 4200
+
+website:
+  navbar:
+    logo: img/logo.png
+    left:
+      - text: "Inicio"
+        file: index.qmd
+      - text: "Lecciones"
+        file: codigo_conducta.qmd
+      - text: "Código de conducta"
+        file: codigo_conducta.qmd
+      - text: "Obtener Ayuda"
+        file: obtener_ayuda.qmd
+      - text: "FAQ"
+        file: faq.qmd
+  sidebar:
+    - id: tutorials
+      title: "Clases"
+      style: "docked"
+      background: light
+      collapse-level: 3
+      contents:
+        - section: "Antes de comenzar"
+          contents:
+            - text: "Código de conducta"
+              href: codigo_conducta.qmd
+            - text: "Instalación y configuración"
+              href: clases/instalacion_configuracion.qmd
+        
+
+author:
+  - name: "Carlos Aguero Barquero"
+    affiliations: "Software Engineer | RStudio Instructor | The Carpentries"
+    email: carlos.aguero@aprendetidyverse.com
+copyright: 
+  statement: "Copyright Aprende Tidyverse. 2024. Todos los derechos reservados."
+license:
+  text: >
+    Este trabajo está licenciado bajo la Licencia Internacional 
+    Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0).
+    Eres libre de compartir este material siempre que otorgues el crédito
+    adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.
+  type: open-access
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+
+format:
+  html:
+    grid:
+      sidebar-width: 310px
+    theme: seem.scss
+    metadata:
+      pagetitle: "{{< meta title >}}"
+      freeze: true
+      # Enable banner style title blocks
+      title-block-banner: false
+      # Can't yet enable this because it causes "On this page" to appear on index.html
+      # even if I set its post-level `toc: false`
+      # toc: true
+      title-block-categories: false
+      toc-depth: 5

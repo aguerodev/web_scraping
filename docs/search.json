@@ -1,0 +1,787 @@
+[
+  {
+    "objectID": "profesores.html",
+    "href": "profesores.html",
+    "title": "Profesores",
+    "section": "",
+    "text": "ReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright nombre de los cursos. 2024. Todos los derechos reservados."
+  },
+  {
+    "objectID": "instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "href": "instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Verificación de la Instalación de R y RStudio",
+    "text": "Verificación de la Instalación de R y RStudio\nSi ya has instalado R y RStudio, puede que te preguntes si es necesario seguir los pasos de una nueva instalación. Antes de tomar una decisión, es crucial verificar que tu instalación actual esté completa y actualizada. A menudo, durante la instalación inicial, se pueden pasar por alto algunos componentes esenciales. Aquí te ofrecemos una guía para confirmar si tu instalación cumple con los requisitos necesarios.\n\nPara usuarios de Windows:\n\nConfirma que la versión de R sea superior a 4.1.\nAsegúrate de que RStudio esté actualizado a la última versión.\nVerifica si tienes instalado RTools, un componente esencial para el desarrollo.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\n\n\nPara usuarios de Mac:\n\nComprueba que la versión de R sea superior a 4.1.\nRStudio debe estar actualizado a su última versión.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\nAdemás, para los usuarios de Mac, la instalación requiere pasos adicionales para garantizar la correcta funcionalidad de todos los paquetes. Asegúrate de tener instaladas las siguientes librerías del sistema:\n\ngfortran\ngcc\nxcode\n\nSi tras esta verificación encuentras que tu sistema no cumple con alguno de estos requisitos, o tienes dudas, te recomendamos seguir los pasos de instalación nuevamente para asegurar un entorno de trabajo óptimo con R y RStudio.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "href": "instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Windows",
+    "text": "Instalación de R y RStudio en Windows",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "href": "instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Mac",
+    "text": "Instalación de R y RStudio en Mac",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "href": "instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Solicitar asistencia tecnica",
+    "text": "Solicitar asistencia tecnica\nEntendemos que enfrentarse a problemas durante la instalación y configuración de equipos tecnológicos puede resultar particularmente frustrante, especialmente si no te consideras una persona muy técnica. Sin embargo, queremos asegurarte que no estás solo en este proceso y estamos aquí para brindarte el apoyo necesario.\nPara ayudarte a superar estos desafíos y completar el proceso con éxito, te invitamos a agendar una reunión virtual a través de Zoom con uno de nuestros instructores. Ellos te guiarán paso a paso, asegurándose de que tu equipo quede configurado correctamente y listo para usar.\nHaz clic en el siguiente enlace para programar tu reunión y comenzar tu camino hacia una experiencia tecnológica sin estrés.\nProgramar una reunión",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "faq.html",
+    "href": "faq.html",
+    "title": "Pregutnas Frecuentes",
+    "section": "",
+    "text": "Somos una organización que busca hacer accesible el aprendizaje del lenguaje R a profesionales, académicos y estudiantes en toda América Latina. Ofrecemos desde cursos gratuitos para que puedas comenzar hasta cursos más avanzados enfocados a profesionales. Ofrecemos descuentos de hasta el 100% para estudiantes de pregrado y miembros de comunidades poco representadas en STEM y personas de países con limitaciones para pagos en línea."
+  },
+  {
+    "objectID": "codigo_conducta.html",
+    "href": "codigo_conducta.html",
+    "title": "Código de conducta",
+    "section": "",
+    "text": "Nos comprometemos a ofrecer un ambiente educativo seguro y acogedor para todos, sin importar su experiencia, identidad o conocimiento. Este Código de Conducta, fuertemente inspirado por el código de conducta de The Software Carpentries, establece nuestras expectativas para todos los participantes de nuestro curso en línea, así como las consecuencias para comportamientos inaceptables.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Código de conducta"
+    ]
+  },
+  {
+    "objectID": "codigo_conducta.html#reporte-de-incidentes",
+    "href": "codigo_conducta.html#reporte-de-incidentes",
+    "title": "Código de conducta",
+    "section": "Reporte de Incidentes",
+    "text": "Reporte de Incidentes\n\nLos incidentes deben reportarse a través de un formulario anónimo, garantizando la privacidad y seguridad de quien reporta.\nCada reporte será tratado con seriedad y confidencialidad.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Código de conducta"
+    ]
+  },
+  {
+    "objectID": "codigo_conducta.html#comportamiento-esperado",
+    "href": "codigo_conducta.html#comportamiento-esperado",
+    "title": "Código de conducta",
+    "section": "Comportamiento Esperado",
+    "text": "Comportamiento Esperado\n\nUtilizar un lenguaje inclusivo y respetuoso.\nRespetar distintas opiniones y experiencias.\nRecibir y dar críticas constructivas de manera positiva.\nPriorizar el bienestar de la comunidad educativa.\nActuar con cortesía y respeto hacia todos.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Código de conducta"
+    ]
+  },
+  {
+    "objectID": "codigo_conducta.html#comportamiento-inaceptable",
+    "href": "codigo_conducta.html#comportamiento-inaceptable",
+    "title": "Código de conducta",
+    "section": "Comportamiento Inaceptable",
+    "text": "Comportamiento Inaceptable\nCualquier forma de acoso, discriminación o intimidación, incluyendo pero no limitado a:\n\nComentarios ofensivos relacionados con género, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, religión.\nAmenazas o insultos.\nAtención sexual indeseada o imágenes de contenido sexual.\nInterrupción persistente de las sesiones o comunicaciones.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Código de conducta"
+    ]
+  },
+  {
+    "objectID": "codigo_conducta.html#consecuencias",
+    "href": "codigo_conducta.html#consecuencias",
+    "title": "Código de conducta",
+    "section": "Consecuencias",
+    "text": "Consecuencias\n\nLos participantes que violen estas reglas serán expulsados del curso sin derecho a reembolso.\nSe les prohibirá la participación en futuras actividades presenciales y en línea.\n\nNos dedicamos a crear un entorno de aprendizaje positivo y enriquecedor para todos. Esperamos que todos los participantes colaboren para asegurar una experiencia educativa segura y respetuosa.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Código de conducta"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web Scraping y Automatización con R 📊🤖",
+    "section": "",
+    "text": "Estamos emocionados de acompañarte en este viaje hacia el dominio de R y el fascinante mundo de la ciencia de datos. Este curso ha sido diseñado pensando en ti, sin importar si eres un principiante absoluto o si ya tienes algunas nociones básicas de programación. A lo largo de las próximas 6 semanas, te sumergirás en el universo de R y el tidyverse, descubriendo cómo estas poderosas herramientas pueden transformar la manera en que analizas datos."
+  },
+  {
+    "objectID": "obtener_ayuda.html",
+    "href": "obtener_ayuda.html",
+    "title": "Obtener Ayuda",
+    "section": "",
+    "text": "💡 Necesitas ayuda, es normal. Estos no son temas sencillos y a todos nos tomó varios intentos hasta poder comprenderlos.\n¿Qué te parece si practicamos? En el botón puedes acceder a mi calendario privado y programar una sesión de Zoom. 🗓️ Ahí puedes contarme en qué estás trabajando y veremos cómo puedo ayudarte a resolver tus dudas.\n📅 La sesión de consulta es individual, tiene una duración de 45 minutos y se realiza por Zoom.\nProgramar una reunión\n📱 Si tu consulta es muy corta y no requiere ver código o compartir pantalla, puedes escribirme por WhatsApp.\nEscribir a Whatsapp\n\n🚨 Si necesitas reportar algún incidente, puedes hacerlo en el siguiente enlace: https://tally.so/r/3EP4r2.\n🛡️ Estamos comprometidos a ofrecer un ambiente educativo seguro y acogedor para todos. Tu reporte será manejado con la mayor confidencialidad y seriedad para asegurar un entorno respetuoso y libre de inconvenientes.\n\n\n\nReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright Aprende Tidyverse. 2024. Todos los derechos reservados."
+  },
+  {
+    "objectID": "clases/index.html",
+    "href": "clases/index.html",
+    "title": "Introducción a ggplot2 y shiny",
+    "section": "",
+    "text": "¡Hola y bienvenidos a nuestro taller intensivo de 2 semanas sobre visualización de datos con ggplot2 y Shiny! Estoy muy emocionado de tenerte aquí y de acompañarte en este viaje de aprendizaje."
+  },
+  {
+    "objectID": "faq.html#qué-es-aprende-tidyverse",
+    "href": "faq.html#qué-es-aprende-tidyverse",
+    "title": "Pregutnas Frecuentes",
+    "section": "",
+    "text": "Somos una organización que busca hacer accesible el aprendizaje del lenguaje R a profesionales, académicos y estudiantes en toda América Latina. Ofrecemos desde cursos gratuitos para que puedas comenzar hasta cursos más avanzados enfocados a profesionales. Ofrecemos descuentos de hasta el 100% para estudiantes de pregrado y miembros de comunidades poco representadas en STEM y personas de países con limitaciones para pagos en línea."
+  },
+  {
+    "objectID": "faq.html#cómo-puedo-ver-la-grabación",
+    "href": "faq.html#cómo-puedo-ver-la-grabación",
+    "title": "Pregutnas Frecuentes",
+    "section": "¿Cómo puedo ver la grabación?",
+    "text": "¿Cómo puedo ver la grabación?\nLa grabación de las sesiones te llegará de forma automática a WhatsApp una vez terminada la clase, junto con un resumen de los temas vistos. Recuerda descargar los materiales ya que solamente estarán en línea por 7 días."
+  },
+  {
+    "objectID": "faq.html#no-tengo-computadora-puedo-participar",
+    "href": "faq.html#no-tengo-computadora-puedo-participar",
+    "title": "Pregutnas Frecuentes",
+    "section": "No tengo computadora, ¿puedo participar?",
+    "text": "No tengo computadora, ¿puedo participar?\nLas clases y prácticas están diseñadas para ser vistas desde una computadora. Si por algún motivo debes asistir desde un dispositivo móvil o una tablet, por favor contacta al instructor vía WhatsApp en https://wa.me/50683725899 para que lo tome en cuenta a la hora de formar grupos de trabajo."
+  },
+  {
+    "objectID": "faq.html#puedo-proponer-ejercicios-o-cambios",
+    "href": "faq.html#puedo-proponer-ejercicios-o-cambios",
+    "title": "Pregutnas Frecuentes",
+    "section": "¿Puedo proponer ejercicios o cambios?",
+    "text": "¿Puedo proponer ejercicios o cambios?\n¡Claro! Siempre estamos abiertos a modificaciones y propuestas. Si tienes algún dataset en mente, coméntalo con el instructor por WhatsApp https://wa.me/50683725899 o al email info@aprendetidyverse.com y lo evaluaremos para agregar en las siguientes sesiones."
+  },
+  {
+    "objectID": "faq.html#dan-algún-certificado",
+    "href": "faq.html#dan-algún-certificado",
+    "title": "Pregutnas Frecuentes",
+    "section": "¿Dan algún certificado?",
+    "text": "¿Dan algún certificado?\nEste curso incluye un certificado, emitido por la plataforma certifier y compatible con LinkedIn. Para poder acceder a este, debes participar de al menos 2 sesiones se seguimiento a lo largo del curso y completar el proyecto final."
+  },
+  {
+    "objectID": "index.html#objetivos-del-taller",
+    "href": "index.html#objetivos-del-taller",
+    "title": "Fundamentos de R y RStudio",
+    "section": "Objetivos del Taller",
+    "text": "Objetivos del Taller\nEl principal objetivo de este taller es proporcionarte las herramientas y conocimientos necesarios para crear visualizaciones de datos efectivas y aplicaciones interactivas utilizando ggplot2 y Shiny. Al finalizar el taller, deberías sentirte cómodo con:\n\nComprender la estructura y lógica de un gráfico en ggplot2: Desarrollar una sólida comprensión de cómo funciona ggplot2 y cómo utilizarlo para crear gráficos diversos como gráficos de barras, líneas, puntos, boxplots e histogramas.\nConceptos básicos de teoría del color para visualización de datos: Aprender a aplicar teoría del color para mejorar la estética y la legibilidad de tus gráficos.\nDesarrollo de mapas: Crear mapas del mundo y mapas específicos de Costa Rica utilizando ggplot2.\nIntroducción a Shiny y sus componentes esenciales: Comprender la estructura de una aplicación Shiny y cómo utilizar inputs, outputs, renders, reactiveValues, eventReactive, observers, entre otros.\nEntender el concepto de reactividad: Dominar cómo funciona la reactividad en Shiny y cómo aprovecharla para crear aplicaciones interactivas.\nCrear un diagrama de funcionamiento de una app con Shiny: Aprender a esquematizar el flujo y funcionamiento de una aplicación Shiny.\nDesplegar una aplicación Shiny en shinyapps.io: Adquirir las habilidades necesarias para poner en línea tus aplicaciones Shiny y compartirlas con el mundo."
+  },
+  {
+    "objectID": "index.html#sobre-el-instructor",
+    "href": "index.html#sobre-el-instructor",
+    "title": "Web Scraping y Automatización con R 📊🤖",
+    "section": "Sobre el Instructor",
+    "text": "Sobre el Instructor\n\n\n\n\n\n👋 Hola, soy Carlos Aguero. Soy ingeniero en sistemas de información y, desde 2016, me dedico a enseñar a personas de todas las áreas y niveles de formación a programar en R.\n📚 Formo parte del listado de instructores certificados por RStudio, enfocándome en Tidyverse y Shiny. En diciembre de 2023, tuve el gusto de unirme a los instructores de la organización Software Carpentry.\n\n\nCreo que cualquiera puede dominar R con la guía adecuada. Mi compromiso es que cada concepto y ejercicio sean accesibles, comprensibles y estar para aclarar tus dudas. Quiero encender tu pasión por los datos. Juntos, descubriremos el enorme potencial que puedes desbloquear al combinar tu talento y formación con la capacidad de analizar datos 📊📚."
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html",
+    "href": "clases/01_gramatica_graficos.html",
+    "title": "Visualización de datos con ggplot2",
+    "section": "",
+    "text": "El paquete ggplot2 es quizá el más querido por la comunidad de usuarios de R. Aunque al inicio puede desesperarnos que nada funcione, esto casi siempre se resuelve cuando tomamos el tiempo de ver un poco de la teoría que hay detrás de ese paquete.\nEn este taller, nuestro objetivo es aclarar estos conceptos y ayudarte a crear gráficos funcionales y, ¿por qué no?, bonitos🎨.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#capa-de-datos",
+    "href": "clases/01_gramatica_graficos.html#capa-de-datos",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Capa de datos",
+    "text": "Capa de datos\nEsta capa no muestra nada; veremos que aparece un rectángulo gris, pero su función es indicarle a ggplot dónde debe buscar los datos cuando mencionemos el nombre de alguna variable en el mapeo.\n\nggplot(\n  data = pinguinos\n)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#mapeo",
+    "href": "clases/01_gramatica_graficos.html#mapeo",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Mapeo",
+    "text": "Mapeo\nEsta es quizá la parte más importante de nuestro gráfico. Wilke (2019) nos explica que el mapeo es un proceso de traducción en el que convertimos variables de nuestra tabla, casi siempre números y categorías, en atributos como la posición (x, y), el color, la forma o el tamaño de un elemento.\n\nPara indicar el mapeo, utilizamos el parámetro mapping y le pasamos una aes (abreviatura de “aesthetic”, que en español se traduce como “estética”). Este término puede ser problemático porque podría sugerir que se refiere únicamente a la apariencia visual del gráfico. Sin embargo, en este contexto, “estética” se refiere a los atributos fundamentales que conforman un gráfico, como la posición (x, y), el color, la forma o el tamaño de los elementos.\nEn el ámbito del arte, la estética se ocupa de las propiedades que hacen que una obra de arte sea significativa y apreciable, más allá de su mera apariencia visual. Del mismo modo, en ggplot2, la estética se centra en cómo se representan los datos de manera que sean comprensibles y efectivos, no solo en cómo se ven.\nPor ejemplo, en nuestro caso, la variable largo_pico_mm, que es una variable numérica en nuestra tabla, en nuestro gráfico se va a representar como la posición de los elementos en el eje x, y el alto_pico_mm pasará a representarse como la posición de los elementos en el eje y. Estamos traduciendo números de la tabla a ubicaciones, posiciones, en el espacio del gráfico. En esto consiste el mapeo.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm\n  )\n)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#grámatica-de-los-gráficos",
+    "href": "clases/01_gramatica_graficos.html#grámatica-de-los-gráficos",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Grámatica de los gráficos",
+    "text": "Grámatica de los gráficos\nWilkinson (2005) creó la gramática de los gráficos para explicar las características básicas de todos los gráficos estadísticos. Esta gramática responde a la pregunta: ¿qué es un gráfico estadístico? ggplot2 Wickham (2010) se basa en esta gramática, destacando la importancia de las capas y adaptándola para usar en R. Básicamente, la gramática nos dice que un gráfico conecta los datos con atributos estéticos (color, forma, tamaño) de objetos geométricos (puntos, líneas, barras). El gráfico también puede incluir transformaciones estadísticas de los datos e información sobre el sistema de coordenadas del gráfico. Además, se puede usar el facetado para graficar diferentes subconjuntos de datos. La combinación de todos estos elementos es lo que crea un gráfico.\n\n\n\n\n\nflowchart TB\n    A[Estructura de ggplot2] --&gt; B[Datos]\n\n    A --&gt; C[Mapeo Estético]\n\n    A --&gt; D[Geometrías]\n\n    A --&gt; E[Facetas]\n\n    A --&gt; F[Escalas]\n\n    A --&gt; G[Coordenadas]\n\n    A --&gt; H[Temas]\n\n    A --&gt; I[Etiquetas y Leyendas]\n\n\n\n\n\n\n\nImagina la estructura de ggplot2 como si fueran piezas de Lego que tenemos que ensamblar para construir algo. En este caso, la primera pieza, la base, sería nuestra capa de datos.\nPara este ejemplo, utilizaremos la tabla pinguinos del paquete datos, una alternativa algo más bonita al clásico dataset “iris”.\n\npinguinos &lt;- datos::pinguinos\nglimpse(pinguinos)\n\nRows: 344\nColumns: 8\n$ especie         &lt;fct&gt; Adelia, Adelia, Adelia, Adelia, Adelia, Adelia, Adelia…\n$ isla            &lt;fct&gt; Torgersen, Torgersen, Torgersen, Torgersen, Torgersen,…\n$ largo_pico_mm   &lt;dbl&gt; 39.1, 39.5, 40.3, NA, 36.7, 39.3, 38.9, 39.2, 34.1, 42…\n$ alto_pico_mm    &lt;dbl&gt; 18.7, 17.4, 18.0, NA, 19.3, 20.6, 17.8, 19.6, 18.1, 20…\n$ largo_aleta_mm  &lt;int&gt; 181, 186, 195, NA, 193, 190, 181, 195, 193, 190, 186, …\n$ masa_corporal_g &lt;int&gt; 3750, 3800, 3250, NA, 3450, 3650, 3625, 4675, 3475, 42…\n$ sexo            &lt;fct&gt; macho, hembra, hembra, NA, hembra, macho, hembra, mach…\n$ anio            &lt;int&gt; 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, …\n\n\n\nEste dataset contiene medidas del alto y largo del pico, peso, sexo y especie de pingüinos de la Antártida.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#geometrías",
+    "href": "clases/01_gramatica_graficos.html#geometrías",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Geometrías",
+    "text": "Geometrías\nSi nuestro gráfico fuera una construcción, digamos una casa, los datos y el mapeo serían los planos. Pero ahora toca ponerse manos a la obra para construir. Ese es el rol de las geometrías. Estas son las encargadas de dibujar los puntos, barras, líneas o cualquier otro elemento que veamos en el gráfico.\n\nLas geometrías ya saben qué colores, posiciones y tamaños usar porque se los indicamos en el mapeo, ya vienen en los planos de la casa. Y así como hay albañiles, electricistas y plomeros, cada geom se especializa en construir un tipo de gráfico. Entre los más comunes están:\n\ngeom_point: gráfico de puntos (dispersión)\ngeom_bar/geom_col: gráficos de barras\ngeom_line: gráficos de líneas\ngeom_histogram: histogramas\n\nEn ggplot2.tidyverse.org, puedes encontrar una lista gigante de todas las geometrías que podemos utilizar, pero por ahora, con estos tenemos más que suficiente.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm\n  )\n) +\n  geom_point()\n\n\n\n\n\n\n\n\nSi alguna vez has hecho reparaciones en la casa, sabes que siempre al final alguien quiere algún cambio. Así que ahora yo quiero que mis puntos tengan colores, pero no cualquiera; quiero que el color dependa de la especie del pingüino. Como lo que queremos es que se tomen datos de la tabla para representarlos en el gráfico, debemos colocar esto en el mapping.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n  )\n) +\n  geom_point()",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#etiquetas",
+    "href": "clases/01_gramatica_graficos.html#etiquetas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Etiquetas",
+    "text": "Etiquetas\nLas formas y los colores no son suficientes para dejar todo claro. Es por eso que todo gráfico que se precie de profesional debe llevar texto que lo acompañe: un título, subtítulo y una fuente.\nTodos estos los vamos a colocar en una capa llamada labs().\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  )\n\n\n\n\n\n\n\n\nAunque podemos encontrar en Estadística y Censos (INEC) (2017) una muy buena guía de cómo debemos redactar estos títulos y subtítulos para presentar gráficos estadísticos, para los términos del taller vamos a ser más “informales”. Sin embargo, vale mucho la pena revisarla.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#escalas",
+    "href": "clases/01_gramatica_graficos.html#escalas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Escalas",
+    "text": "Escalas\nAl inicio te comentaba que todos aman a ggplot2. Esto se debe a que cosas que antes teníamos que hacer a mano con el paquete graphics, ahora las podemos hacer de forma casi mágica🪄. El paquete decide por nosotros aspectos como los colores a usar, las divisiones de los ejes y muchas otras cosas.\nA medida que avanzamos, comenzamos a ponernos más exigentes con estos detalles y la primera duda que siempre surge es: “💬 Ok, pero esos colores no me gustan, ¿puedo poner otros?”\nCuando queremos modificar algo que ggplot2 ha seleccionado por nosotros, utilizamos las escalas.\nWickham, Navarro, y Pedersen (2024) explican de forma más rigurosa que las escalas controlan el mapeo de datos a atributos estéticos. Transforman tus datos en algo que puedes visualizar, como tamaño, color, posición o forma. Además, proporcionan las herramientas que te permiten interpretar el gráfico, como los ejes y las leyendas. Aunque es posible generar gráficos con ggplot2 sin comprender cómo funcionan las escalas, entenderlas y aprender a manipularlas te dará mucho más control sobre tus gráficos.\nEn este caso, para el color vamos a utilizar la escala scale_color_manual. A esta le indicaremos en el parámetro values los colores que queremos utilizar para nuestro gráfico.\nPara especificar los colores, podemos hacerlo usando el nombre del color. La Universidad de Columbia nos hace el enorme favor de listar los colores por nombre, o podemos especificar el código hexadecimal del color. Suena raro, pero es fácil. En la computadora, los colores se guardan de manera diferente. Para evitar confusiones, cada posible color que genera la pantalla tiene un código único. Estos códigos se ven algo así.\n\nLa pregunta obvia es: ¿y de dónde saco esos códigos? Bueno, puedes buscar en Google “color picker” o utilizar sitios web como Color Hunt, que también pueden ser útiles.\n\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  ) +\n  scale_color_manual(\n    values = c(\"#EF9C66\",\"#C738BD\",\"#3AA6B9\")\n  )",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/01_gramatica_graficos.html#temas",
+    "href": "clases/01_gramatica_graficos.html#temas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Temas",
+    "text": "Temas\nLos temas son cambios de apariencia que podemos aplicar a los gráficos. Aunque más adelante descubrirás que podemos hacer cosas muy interesantes con los temas, por ahora solo aplicaremos uno: theme_minimal().\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  ) +\n  scale_color_manual(\n    values = c(\"#EF9C66\",\"#C738BD\",\"#3AA6B9\")\n  ) +\n  theme_minimal()\n\n\n\n\n\n\n\n\nComo ves, hay bastantes conceptos detrás de un gráfico tan “sencillo” como este. Ahora vamos a practicar directamente en RStudio.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html",
+    "href": "clases/02_intro_shiny.html",
+    "title": "Introducción a Shiny",
+    "section": "",
+    "text": "Shiny es una herramienta que permite a los usuarios de R crear aplicaciones web interactivas sin necesidad de aprender programación web.\nHay un problema común para los analistas: necesitan presentar sus resultados, pero esto a menudo implica aprender tecnologías web como JavaScript, CSS, HTML, React, Vue u otras similares. La otra opción, que no sé si es mejor o peor, es tener que trabajar en conjunto con un desarrollador web que no entiende mucho de datos. Esto termina en decenas de reuniones y horas gastadas en ponerse de acuerdo sobre cómo desarrollar la web.\nEntonces, Winston Chang tuvo una de las ideas más geniales: ¿y si todo esto se pudiera hacer sin salir de RStudio y usando R? Bueno, eso es Shiny: superpoderes de desarrollador web para usuarios de R.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#grámatica-de-los-gráficos",
+    "href": "clases/02_intro_shiny.html#grámatica-de-los-gráficos",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Grámatica de los gráficos",
+    "text": "Grámatica de los gráficos\nWilkinson (2005) creó la gramática de los gráficos para explicar las características básicas de todos los gráficos estadísticos. Esta gramática responde a la pregunta: ¿qué es un gráfico estadístico? ggplot2 Wickham (2010) se basa en esta gramática, destacando la importancia de las capas y adaptándola para usar en R. Básicamente, la gramática nos dice que un gráfico conecta los datos con atributos estéticos (color, forma, tamaño) de objetos geométricos (puntos, líneas, barras). El gráfico también puede incluir transformaciones estadísticas de los datos e información sobre el sistema de coordenadas del gráfico. Además, se puede usar el facetado para graficar diferentes subconjuntos de datos. La combinación de todos estos elementos es lo que crea un gráfico.\n\n\n\n\n\nflowchart TB\n    A[Estructura de ggplot2] --&gt; B[Datos]\n\n    A --&gt; C[Mapeo Estético]\n\n    A --&gt; D[Geometrías]\n\n    A --&gt; E[Facetas]\n\n    A --&gt; F[Escalas]\n\n    A --&gt; G[Coordenadas]\n\n    A --&gt; H[Temas]\n\n    A --&gt; I[Etiquetas y Leyendas]\n\n\n\n\n\n\n\nImagina la estructura de ggplot2 como si fueran piezas de Lego que tenemos que ensamblar para construir algo. En este caso, la primera pieza, la base, sería nuestra capa de datos.\nPara este ejemplo, utilizaremos la tabla pinguinos del paquete datos, una alternativa algo más bonita al clásico dataset “iris”.\n\npinguinos &lt;- datos::pinguinos\nglimpse(pinguinos)\n\nRows: 344\nColumns: 8\n$ especie         &lt;fct&gt; Adelia, Adelia, Adelia, Adelia, Adelia, Adelia, Adelia…\n$ isla            &lt;fct&gt; Torgersen, Torgersen, Torgersen, Torgersen, Torgersen,…\n$ largo_pico_mm   &lt;dbl&gt; 39.1, 39.5, 40.3, NA, 36.7, 39.3, 38.9, 39.2, 34.1, 42…\n$ alto_pico_mm    &lt;dbl&gt; 18.7, 17.4, 18.0, NA, 19.3, 20.6, 17.8, 19.6, 18.1, 20…\n$ largo_aleta_mm  &lt;int&gt; 181, 186, 195, NA, 193, 190, 181, 195, 193, 190, 186, …\n$ masa_corporal_g &lt;int&gt; 3750, 3800, 3250, NA, 3450, 3650, 3625, 4675, 3475, 42…\n$ sexo            &lt;fct&gt; macho, hembra, hembra, NA, hembra, macho, hembra, mach…\n$ anio            &lt;int&gt; 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, …\n\n\n\nEste dataset contiene medidas del alto y largo del pico, peso, sexo y especie de pingüinos de la Antártida.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#capa-de-datos",
+    "href": "clases/02_intro_shiny.html#capa-de-datos",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Capa de datos",
+    "text": "Capa de datos\nEsta capa no muestra nada; veremos que aparece un rectángulo gris, pero su función es indicarle a ggplot dónde debe buscar los datos cuando mencionemos el nombre de alguna variable en el mapeo.\n\nggplot(\n  data = pinguinos\n)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#mapeo",
+    "href": "clases/02_intro_shiny.html#mapeo",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Mapeo",
+    "text": "Mapeo\nEsta es quizá la parte más importante de nuestro gráfico. Wilke (2019) nos explica que el mapeo es un proceso de traducción en el que convertimos variables de nuestra tabla, casi siempre números y categorías, en atributos como la posición (x, y), el color, la forma o el tamaño de un elemento.\n\nPara indicar el mapeo, utilizamos el parámetro mapping y le pasamos una aes (abreviatura de “aesthetic”, que en español se traduce como “estética”). Este término puede ser problemático porque podría sugerir que se refiere únicamente a la apariencia visual del gráfico. Sin embargo, en este contexto, “estética” se refiere a los atributos fundamentales que conforman un gráfico, como la posición (x, y), el color, la forma o el tamaño de los elementos.\nEn el ámbito del arte, la estética se ocupa de las propiedades que hacen que una obra de arte sea significativa y apreciable, más allá de su mera apariencia visual. Del mismo modo, en ggplot2, la estética se centra en cómo se representan los datos de manera que sean comprensibles y efectivos, no solo en cómo se ven.\nPor ejemplo, en nuestro caso, la variable largo_pico_mm, que es una variable numérica en nuestra tabla, en nuestro gráfico se va a representar como la posición de los elementos en el eje x, y el alto_pico_mm pasará a representarse como la posición de los elementos en el eje y. Estamos traduciendo números de la tabla a ubicaciones, posiciones, en el espacio del gráfico. En esto consiste el mapeo.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm\n  )\n)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#geometrías",
+    "href": "clases/02_intro_shiny.html#geometrías",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Geometrías",
+    "text": "Geometrías\nSi nuestro gráfico fuera una construcción, digamos una casa, los datos y el mapeo serían los planos. Pero ahora toca ponerse manos a la obra para construir. Ese es el rol de las geometrías. Estas son las encargadas de dibujar los puntos, barras, líneas o cualquier otro elemento que veamos en el gráfico.\n\nLas geometrías ya saben qué colores, posiciones y tamaños usar porque se los indicamos en el mapeo, ya vienen en los planos de la casa. Y así como hay albañiles, electricistas y plomeros, cada geom se especializa en construir un tipo de gráfico. Entre los más comunes están:\n\ngeom_point: gráfico de puntos (dispersión)\ngeom_bar/geom_col: gráficos de barras\ngeom_line: gráficos de líneas\ngeom_histogram: histogramas\n\nEn ggplot2.tidyverse.org, puedes encontrar una lista gigante de todas las geometrías que podemos utilizar, pero por ahora, con estos tenemos más que suficiente.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm\n  )\n) +\n  geom_point()\n\n\n\n\n\n\n\n\nSi alguna vez has hecho reparaciones en la casa, sabes que siempre al final alguien quiere algún cambio. Así que ahora yo quiero que mis puntos tengan colores, pero no cualquiera; quiero que el color dependa de la especie del pingüino. Como lo que queremos es que se tomen datos de la tabla para representarlos en el gráfico, debemos colocar esto en el mapping.\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n  )\n) +\n  geom_point()",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#etiquetas",
+    "href": "clases/02_intro_shiny.html#etiquetas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Etiquetas",
+    "text": "Etiquetas\nLas formas y los colores no son suficientes para dejar todo claro. Es por eso que todo gráfico que se precie de profesional debe llevar texto que lo acompañe: un título, subtítulo y una fuente.\nTodos estos los vamos a colocar en una capa llamada labs().\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  )\n\n\n\n\n\n\n\n\nAunque podemos encontrar en Estadística y Censos (INEC) (2017) una muy buena guía de cómo debemos redactar estos títulos y subtítulos para presentar gráficos estadísticos, para los términos del taller vamos a ser más “informales”. Sin embargo, vale mucho la pena revisarla.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#escalas",
+    "href": "clases/02_intro_shiny.html#escalas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Escalas",
+    "text": "Escalas\nAl inicio te comentaba que todos aman a ggplot2. Esto se debe a que cosas que antes teníamos que hacer a mano con el paquete graphics, ahora las podemos hacer de forma casi mágica🪄. El paquete decide por nosotros aspectos como los colores a usar, las divisiones de los ejes y muchas otras cosas.\nA medida que avanzamos, comenzamos a ponernos más exigentes con estos detalles y la primera duda que siempre surge es: “💬 Ok, pero esos colores no me gustan, ¿puedo poner otros?”\nCuando queremos modificar algo que ggplot2 ha seleccionado por nosotros, utilizamos las escalas.\nWickham, Navarro, y Pedersen (2024) explican de forma más rigurosa que las escalas controlan el mapeo de datos a atributos estéticos. Transforman tus datos en algo que puedes visualizar, como tamaño, color, posición o forma. Además, proporcionan las herramientas que te permiten interpretar el gráfico, como los ejes y las leyendas. Aunque es posible generar gráficos con ggplot2 sin comprender cómo funcionan las escalas, entenderlas y aprender a manipularlas te dará mucho más control sobre tus gráficos.\nEn este caso, para el color vamos a utilizar la escala scale_color_manual. A esta le indicaremos en el parámetro values los colores que queremos utilizar para nuestro gráfico.\nPara especificar los colores, podemos hacerlo usando el nombre del color. La Universidad de Columbia nos hace el enorme favor de listar los colores por nombre, o podemos especificar el código hexadecimal del color. Suena raro, pero es fácil. En la computadora, los colores se guardan de manera diferente. Para evitar confusiones, cada posible color que genera la pantalla tiene un código único. Estos códigos se ven algo así.\n La pregunta obvia es: ¿y de dónde saco esos códigos? Bueno, puedes buscar en Google “color picker” o utilizar sitios web como Color Hunt, que también pueden ser útiles.\n\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  ) +\n  scale_color_manual(\n    values = c(\"#EF9C66\",\"#C738BD\",\"#3AA6B9\")\n  )",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#temas",
+    "href": "clases/02_intro_shiny.html#temas",
+    "title": "Visualización de datos con ggplot2",
+    "section": "Temas",
+    "text": "Temas\nLos temas son cambios de apariencia que podemos aplicar a los gráficos. Aunque más adelante descubrirás que podemos hacer cosas muy interesantes con los temas, por ahora solo aplicaremos uno: theme_minimal().\n\nggplot(\n  data = pinguinos,\n  mapping = aes(\n    x = largo_pico_mm,\n    y = alto_pico_mm,\n    color = especie\n    )\n  ) +\n  geom_point() +\n  labs(\n    title = \"Relación entre el largo y el alto del pico de los pingüinos\",\n    subtitle = \"Datos agrupados por especie\",\n    x = \"Largo del pico (mm)\",\n    y = \"Alto del pico (mm)\",\n    color = \"Especie\",\n    caption = \"Fuente: Paquete 'datos'\"\n  ) +\n  scale_color_manual(\n    values = c(\"#EF9C66\",\"#C738BD\",\"#3AA6B9\")\n  ) +\n  theme_minimal()\n\n\n\n\n\n\n\n\nComo ves, hay bastantes conceptos detrás de un gráfico tan “sencillo” como este. Ahora vamos a practicar directamente en RStudio.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#anatomía-de-una-aplicación-shiny",
+    "href": "clases/02_intro_shiny.html#anatomía-de-una-aplicación-shiny",
+    "title": "Introducción a Shiny",
+    "section": "Anatomía de una aplicación Shiny",
+    "text": "Anatomía de una aplicación Shiny\nShiny se compone de dos partes principales: la interfaz de usuario (UI) y el servidor (Server). Cada uno tiene un rol específico en la creación de una aplicación Shiny.\n\nInterfaz de Usuario (UI)\nLa UI define la apariencia y el diseño de la aplicación. Es el lugar donde se especifica cómo se verá la aplicación y cómo los usuarios interactuarán con ella.\nSe crea usando funciones de Shiny que generan los elementos de la interfaz, como fluidPage(), sidebarLayout(), mainPanel(), input y output.\nEspecifica la disposición de los controles de entrada (como cuadros de texto, botones y deslizadores) y los elementos de salida (como gráficos y tablas).\n\n\nServidor (Server)\nEl servidor contiene la lógica de la aplicación. Aquí se definen las operaciones que se realizan en respuesta a las interacciones del usuario.\nSe define como una función (server function) que toma dos argumentos: input y output. input contiene los valores introducidos por el usuario a través de la UI. output contiene las instrucciones para generar el contenido que se mostrará en la UI, como gráficos o tablas.\nDentro del servidor, se utilizan funciones reactivas y observadores para actualizar dinámicamente los elementos de la interfaz en respuesta a los cambios en los datos de entrada.\n\n\nlibrary(shiny)\n\nui &lt;- fluidPage(\n  numericInput(\n    inputId = \"numero\",\n    label = \"ingrese un número\",\n    value = 0\n  ),\n  textOutput(\n    outputId = \"salida\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$salida &lt;- renderText({\n    input$numero + 1\n  })\n}\n\nshinyApp(ui, server)\n\nEsta app, aunque parece extremadamente sencilla, es fundamental para entender cómo funciona una aplicación Shiny. Hasta que no tengas claros los siguientes conceptos:\n\ninput\noutput\nrender\nreactividad\nciclo de vida de un dato\n\nno vale la pena intentar construir algo más complejo.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#inputs-y-outputs",
+    "href": "clases/02_intro_shiny.html#inputs-y-outputs",
+    "title": "Introducción a Shiny",
+    "section": "Inputs y Outputs",
+    "text": "Inputs y Outputs\nShiny nos ofrece una larga lista de widgets para leer datos (inputs) o mostrar datos (outputs). Puedes verlos en la siguiente lista: Widget Gallery.\n\nlibrary(shiny)\n\nui &lt;- fluidPage(\n  numericInput(\n    inputId = \"numero\",\n    label = \"ingrese un número\",\n    value = 0\n  ),\n  selectInput(\n    inputId = \"colores\",\n    label = \"Selecciona un color\",\n    choices = c(\"red\",\"blue\",\"green\"),\n    selected = \"red\"\n  ),\n  sliderInput(\n    inputId = \"edad\",\n    label = \"Ingrese su edad\",\n    min = 20,\n    max = 50,\n    value = 25\n  ),\n  textInput(\n    inputId = \"nombre\",\n    label = \"Ingrese su nombre\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n}\n\nshinyApp(ui, server)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/02_intro_shiny.html#renders",
+    "href": "clases/02_intro_shiny.html#renders",
+    "title": "Introducción a Shiny",
+    "section": "Renders",
+    "text": "Renders\nAntes de poder entender bien los outputs, hay que comprender qué es un render. Esto funciona más o menos así: cuando en R hacemos un cálculo, un gráfico, un número o cualquier otro tipo de resultado y queremos mostrarlo en el navegador como una aplicación Shiny, se debe hacer una traducción de R a un lenguaje que el navegador (Chrome, Firefox, Safari) entienda. El encargado de hacer esa traducción es el render.\nPor esta razón, tenemos un render especializado para cada tipo de output. Por ejemplo, si queremos enviar valores a un output que es un texto, debemos llamar a renderText. Si fuera un gráfico, usaríamos renderPlot. Y así para cada tipo de output. Siempre, siempre vamos a tener asociado un render; son inseparables.\n\nlibrary(shiny)\nlibrary(dplyr)\n\npinguinos &lt;- datos::pinguinos\n\nnumericas &lt;- colnames(select(pinguinos,where(is.numeric)))\ncategoricas &lt;- colnames(select(pinguinos,where(is.factor)))\n\nui &lt;- fluidPage(\n  selectInput(\n    inputId = \"x\",\n    label = \"Selecciona un variable (x)\",\n    choices = numericas,\n    selected = numericas[1]\n  ),\n  selectInput(\n    inputId = \"y\",\n    label = \"Selecciona un variable (y)\",\n    choices = numericas,\n    selected = numericas[1]\n  ),\n  sliderInput(\n    inputId = \"size\",\n    label = \"Selecciona un tamaño\",\n    min = 1,\n    max = 8,\n    value = 3\n  ),\n  selectInput(\n    inputId = \"color\",\n    label = \"Selecciona un variable (color)\",\n    choices = categoricas,\n    selected = categoricas[1]\n  ),\n  plotOutput(\n    outputId = \"grafico\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$grafico &lt;- renderPlot({\n    ggplot(\n      data = pinguinos,\n      mapping = aes_string(\n        x = input$x,\n        y = input$y,\n        color = input$color\n      ) \n    )+\n      geom_point(size = input$size) +\n      theme_minimal()\n  })\n  \n}\n\nshinyApp(ui, server)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Introducción a Shiny"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html",
+    "href": "clases/03_Shiny_Burgers.html",
+    "title": "Shiny Burguers",
+    "section": "",
+    "text": "ReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright nombre de los cursos. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#anatomía-de-una-aplicación-shiny",
+    "href": "clases/03_Shiny_Burgers.html#anatomía-de-una-aplicación-shiny",
+    "title": "Shiny Burguers",
+    "section": "Anatomía de una aplicación Shiny",
+    "text": "Anatomía de una aplicación Shiny\nShiny se compone de dos partes principales: la interfaz de usuario (UI) y el servidor (Server). Cada uno tiene un rol específico en la creación de una aplicación Shiny.\n\nInterfaz de Usuario (UI)\nLa UI define la apariencia y el diseño de la aplicación. Es el lugar donde se especifica cómo se verá la aplicación y cómo los usuarios interactuarán con ella.\nSe crea usando funciones de Shiny que generan los elementos de la interfaz, como fluidPage(), sidebarLayout(), mainPanel(), input y output.\nEspecifica la disposición de los controles de entrada (como cuadros de texto, botones y deslizadores) y los elementos de salida (como gráficos y tablas).\n\n\nServidor (Server)\nEl servidor contiene la lógica de la aplicación. Aquí se definen las operaciones que se realizan en respuesta a las interacciones del usuario.\nSe define como una función (server function) que toma dos argumentos: input y output. input contiene los valores introducidos por el usuario a través de la UI. output contiene las instrucciones para generar el contenido que se mostrará en la UI, como gráficos o tablas.\nDentro del servidor, se utilizan funciones reactivas y observadores para actualizar dinámicamente los elementos de la interfaz en respuesta a los cambios en los datos de entrada.\n\n\nlibrary(shiny)\n\nui &lt;- fluidPage(\n  numericInput(\n    inputId = \"numero\",\n    label = \"ingrese un número\",\n    value = 0\n  ),\n  textOutput(\n    outputId = \"salida\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$salida &lt;- renderText({\n    input$numero + 1\n  })\n}\n\nshinyApp(ui, server)\n\nEsta app, aunque parece extremadamente sencilla, es fundamental para entender cómo funciona una aplicación Shiny. Hasta que no tengas claros los siguientes conceptos:\n\ninput\noutput\nrender\nreactividad\nciclo de vida de un dato\n\nno vale la pena intentar construir algo más complejo.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#inputs-y-outputs",
+    "href": "clases/03_Shiny_Burgers.html#inputs-y-outputs",
+    "title": "Shiny Burguers",
+    "section": "Inputs y Outputs",
+    "text": "Inputs y Outputs\nShiny nos ofrece una larga lista de widgets para leer datos (inputs) o mostrar datos (outputs). Puedes verlos en la siguiente lista: Widget Gallery.\n\nlibrary(shiny)\n\nui &lt;- fluidPage(\n  numericInput(\n    inputId = \"numero\",\n    label = \"ingrese un número\",\n    value = 0\n  ),\n  selectInput(\n    inputId = \"colores\",\n    label = \"Selecciona un color\",\n    choices = c(\"red\",\"blue\",\"green\"),\n    selected = \"red\"\n  ),\n  sliderInput(\n    inputId = \"edad\",\n    label = \"Ingrese su edad\",\n    min = 20,\n    max = 50,\n    value = 25\n  ),\n  textInput(\n    inputId = \"nombre\",\n    label = \"Ingrese su nombre\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n}\n\nshinyApp(ui, server)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#renders",
+    "href": "clases/03_Shiny_Burgers.html#renders",
+    "title": "Shiny Burguers",
+    "section": "Renders",
+    "text": "Renders\nAntes de poder entender bien los outputs, hay que comprender qué es un render. Esto funciona más o menos así: cuando en R hacemos un cálculo, un gráfico, un número o cualquier otro tipo de resultado y queremos mostrarlo en el navegador como una aplicación Shiny, se debe hacer una traducción de R a un lenguaje que el navegador (Chrome, Firefox, Safari) entienda. El encargado de hacer esa traducción es el render.\nPor esta razón, tenemos un render especializado para cada tipo de output. Por ejemplo, si queremos enviar valores a un output que es un texto, debemos llamar a renderText. Si fuera un gráfico, usaríamos renderPlot. Y así para cada tipo de output. Siempre, siempre vamos a tener asociado un render; son inseparables.\n\nlibrary(shiny)\nlibrary(dplyr)\n\npinguinos &lt;- datos::pinguinos\n\nnumericas &lt;- colnames(select(pinguinos,where(is.numeric)))\ncategoricas &lt;- colnames(select(pinguinos,where(is.factor)))\n\nui &lt;- fluidPage(\n  selectInput(\n    inputId = \"x\",\n    label = \"Selecciona un variable (x)\",\n    choices = numericas,\n    selected = numericas[1]\n  ),\n  selectInput(\n    inputId = \"y\",\n    label = \"Selecciona un variable (y)\",\n    choices = numericas,\n    selected = numericas[1]\n  ),\n  sliderInput(\n    inputId = \"size\",\n    label = \"Selecciona un tamaño\",\n    min = 1,\n    max = 8,\n    value = 3\n  ),\n  selectInput(\n    inputId = \"color\",\n    label = \"Selecciona un variable (color)\",\n    choices = categoricas,\n    selected = categoricas[1]\n  ),\n  plotOutput(\n    outputId = \"grafico\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$grafico &lt;- renderPlot({\n    ggplot(\n      data = pinguinos,\n      mapping = aes_string(\n        x = input$x,\n        y = input$y,\n        color = input$color\n      ) \n    )+\n      geom_point(size = input$size) +\n      theme_minimal()\n  })\n  \n}\n\nshinyApp(ui, server)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#estructura-básica-de-una-aplicación-shiny",
+    "href": "clases/03_Shiny_Burgers.html#estructura-básica-de-una-aplicación-shiny",
+    "title": "Shiny Burguers",
+    "section": "Estructura Básica de una Aplicación Shiny",
+    "text": "Estructura Básica de una Aplicación Shiny\nImaginemos que estamos en un restaurante llamado Shiny Burgers 🍔. Este lugar, como cualquier buen restaurante, tiene dos áreas principales: el salón principal y la cocina.\nEl salón principal, donde se atiende a los clientes, es nuestra UI (interfaz de usuario). Aquí, los meseros, que representan los Inputs y Outputs, son los encargados de interactuar directamente con los clientes. Los Inputs son los meseros que reciben las órdenes de los clientes, como campos de texto, botones y menús desplegables. Estos meseros llevan las órdenes a la cocina.\nLa cocina es el server, el lugar donde se preparan las órdenes. Dentro de la cocina, los renderers 👨🏻‍🍳 son los cocineros. Estos cocineros toman las órdenes que les llevan los meseros (Inputs)✍🏻, preparan los alimentos siguiendo recetas y procesos específicos, y una vez que la comida está lista, la entregan a los meseros (Outputs) 💁🏻‍♂️.\nVolviendo a nuestra analogía, cuando un cliente llega a Shiny Burgers, interactúa con los meseros (Inputs) en el salón principal (UI). El cliente revisa el menú y hace su pedido. Los meseros (Inputs) llevan este pedido a la cocina (server), donde los renderers (cocineros) trabajan en preparar el pedido. Los renderers siguen las recetas y procesos necesarios para transformar los ingredientes (datos) en un plato delicioso.\nUna vez que la comida está lista, los renderers (cocineros) entregan el plato a los meseros (Outputs), quienes se lo llevan de vuelta al cliente en el salón principal (UI). De esta manera, el cliente recibe su pedido preparado.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#primera-app",
+    "href": "clases/03_Shiny_Burgers.html#primera-app",
+    "title": "Shiny Burguers",
+    "section": "Primera app",
+    "text": "Primera app\n\nlibrary(shiny)\n\nui &lt;- fluidPage(\n  textInput(\n    inputId = \"nombre\",\n    label = \"Ingrese su nombre\"\n  ),\n  textOutput(\n    outputId = \"saludo\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$saludo &lt;- renderText({\n    paste0(\"Hola\",input$nombre, \"!\")\n  })\n  \n}\n\nshinyApp(ui, server)\n\nEn este primer ejemplo, tenemos un textInput. Eso quiere decir que nuestro usuario va a poder ingresar un texto a la aplicación. Y por otro lado tenemos un textOutput, o una salida de texto. Quiere decir que en algún momento de la aplicación, nosotros vamos a mostrarle un texto al usuario.\n\nui &lt;- fluidPage(\n  textInput(\n    inputId = \"nombre\", # nombre unico para el input\n    label = \"Ingrese su nombre\"\n  ),\n  textOutput(\n    outputId = \"saludo\" # nombre unico para el output\n  )\n)\n\nComo dijimos antes, todo esto se cocina en el lado del servidor. Es por eso que vemos que el output, llamado saludo, es en el server en donde lo creamos.\nAlgo importante e indispensable: siempre un output va a estar asociado a un tipo específico de render. De la misma forma que hay cocineros que son buenos haciendo sushi, otros son buenos haciendo hamburguesas, otros son buenos haciendo sopa. Tenemos renders que se especializan para cada uno de los tipos de platos que se pueden preparar, o en este caso los tipos de outputs que podemos tener.\n\n# usamos renderText porque el output es de tipo Texto\noutput$saludo &lt;- renderText({\n    paste0(\"Hola\",input$nombre, \"!\")\n  })\n\nEn este caso, como lo que queremos preparar es un textOutput, vamos a llamar a la función especializada, que sería renderText. Si ejecutamos este código, vamos a ver que tenemos una pequeña aplicación, que cuando una persona ingresa un texto, en este caso su nombre, la salida que se genera en el textOutput es “hola” y el nombre que se ingresó.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#vamos-a-practicar",
+    "href": "clases/03_Shiny_Burgers.html#vamos-a-practicar",
+    "title": "Shiny Burguers",
+    "section": "Vamos a practicar🏋🏻‍♀️",
+    "text": "Vamos a practicar🏋🏻‍♀️\n\nCrear un nuevo script de Shiny: En este script, estableceremos la estructura básica de una aplicación Shiny. No se preocupen por trabajar con dos archivos como les han enseñado; comenzaremos con un solo archivo para simplificar el proceso. No hay ninguna diferencia y será más fácil para todos nosotros.\nCrear una aplicación básica: La aplicación consistirá en un Numeric Input, donde el usuario podrá ingresar un número, y un Output de tipo texto. En el servidor, tomaremos el número ingresado por el usuario, le sumaremos 7 y lo presentaremos en pantalla a través del Text Output que creamos anteriormente.\nTiempo estimado: Disponemos de 5 a 10 minutos para completar este ejercicio. Trabajaremos en grupos.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#veamos-nuevos-inputs",
+    "href": "clases/03_Shiny_Burgers.html#veamos-nuevos-inputs",
+    "title": "Shiny Burguers",
+    "section": "Veamos nuevos Inputs",
+    "text": "Veamos nuevos Inputs\nTenemos diferentes tipos de inputs. En el siguiente enlace, que es la Galería Oficial Shiny, podrás ver los tipos de inputs y outputs disponibles. Es importante recordar que diferentes tipos de inputs requieren diferentes parámetros.\nPor ejemplo:\n\nSelect Input: Es ideal para seleccionar entre múltiples categorías. Los parámetros necesarios son:\n\nLabel: La etiqueta que se mostrará al usuario.\nChoices: Las opciones disponibles para seleccionar.\nSelected: La opción que se mostrará por defecto al abrir la aplicación.\n\nSlider Input: Permite seleccionar uno o dos números. Los parámetros necesarios son:\n\nMin: El valor mínimo.\nMax: El valor máximo.\nValue: El valor o valores seleccionados. Puede ser un único número o un vector con dos números para especificar un rango.\n\n\n\nlibrary(shiny)\nlibrary(datos)\nlibrary(tidyverse)\n\ndatos &lt;- pinguinos\n\nui &lt;- fluidPage(\n  selectInput(\n    inputId = \"especie\",\n    label = \"Seleccione una espacie\",\n    choices = c(\"Adelia\",  \"Papúa\",   \"Barbijo\"),\n    selected = \"Adelia\"\n  ),\n  sliderInput(\n    inputId = \"anio\",\n    label = \"Seleccione un año\",\n    min = 2007,\n    max = 2009,\n    value = 2008\n  ),\n  plotOutput(\n    outputId = \"grafico\"\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$grafico &lt;- renderPlot({\n    \n    df &lt;- datos |&gt; \n      filter(especie == input$especie, anio == input$anio)\n    \n    ggplot(\n      data = df,\n      mapping = aes(\n        x = alto_pico_mm\n      )\n    ) +\n      geom_histogram(color = \"white\") +\n      theme_minimal()\n    \n  })\n  \n}\n\nshinyApp(ui, server)\n\n\nInterfaz de usuario. (UI)\nEn nuestra aplicación, primero definimos los inputs y outputs. Un input será la especie del pingüino y el otro será el año de la observación.\nCreamos un selectInput con los nombres de las especies disponibles en el dataset, permitiendo al usuario elegir una especie específica.\nTambién añadimos un sliderInput para seleccionar el año de la observación, con un rango de 2007 a 2009.\nFinalmente, definimos un plotOutput, inicialmente vacío, donde se mostrará el gráfico generado por la aplicación.\n\nselectInput(\n    inputId = \"especie\",\n    label = \"Seleccione una espacie\",\n    choices = c(\"Adelia\",  \"Papúa\",   \"Barbijo\"),\n    selected = \"Adelia\"\n  ),\n  sliderInput(\n    inputId = \"anio\",\n    label = \"Seleccione un año\",\n    min = 2007,\n    max = 2009,\n    value = 2008\n  ),\n  plotOutput(\n    outputId = \"grafico\"\n  )\n\n\n\nServer\nDel lado del servidor, aparece un concepto clave: la reactividad.⚡️ Imagina que haces un pedido en un restaurante y luego necesitas modificarlo porque olvidaste mencionar que eres alérgico al tomate.🍅 El mesero corre a la cocina para hacer el cambio.\nLa reactividad en Shiny funciona de manera similar; automáticamente, cuando los inputs cambian, se envían señales al servidor para que vuelva a preparar desde cero lo que se mostrará en los outputs. En nuestro caso, necesitamos que la tabla de pingüinos se filtre para mostrar solo los pingüinos de la especie seleccionada y para el año seleccionado. Para hacerlo, llamamos directamente a input$especie y input$anio.\n\noutput$grafico &lt;- renderPlot({\n    \n    df &lt;- datos |&gt; \n      filter(especie == input$especie, anio == input$anio)\n    \n    ggplot(\n      data = df,\n      mapping = aes(\n        x = alto_pico_mm\n      )\n    ) +\n      geom_histogram(color = \"white\") +\n      theme_minimal()\n    \n  })\n\nEs crucial entender que cuando un render usa información de los inputs, se crea una dependencia entre ellos, y cualquier cambio en un input hará que se genere una nueva salida.\nUna vez tenemos esta tabla filtrada, podemos usar ggplot2 para crear nuestro gráfico de histograma. Es importante que la última línea dentro de un renderPlot sea la que genera el gráfico, y lo mismo aplica para todos los otros tipos de renders.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#vamos-a-practicar-1",
+    "href": "clases/03_Shiny_Burgers.html#vamos-a-practicar-1",
+    "title": "Shiny Burguers",
+    "section": "Vamos a practicar 🏋🏻‍♀️",
+    "text": "Vamos a practicar 🏋🏻‍♀️\n\nDefinir la estructura de nuestra app con Shiny: En este script, estableceremos la estructura básica de una aplicación Shiny. No se preocupen por trabajar con dos archivos como les han enseñado; comenzaremos con un solo archivo para simplificar el proceso. No hay ninguna diferencia y será más fácil para todos nosotros.\nCrear los inputs:\n\nCrear un select input para elegir la especie de pingüino.\nCrear un slider input para seleccionar el año de observación (2007-2009).\nCrear un slider input para ajustar el tamaño de los puntos en el gráfico.\n\nGenerar un gráfico de dispersión: • Filtrar la tabla de pingüinos según la especie y el año seleccionados. • Generar el gráfico de dispersión utilizando ggplot2, mostrando en el eje Y el largo del pico y en el eje X el ancho del pico. Ajustar el tamaño de los puntos según el valor seleccionado.\n\nTiempo estimado: Disponemos de 10 a 15 minutos para completar este ejercicio. Trabajaremos en grupos.⏰",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#layouts",
+    "href": "clases/03_Shiny_Burgers.html#layouts",
+    "title": "Shiny Burguers",
+    "section": "Layouts",
+    "text": "Layouts\nAhora que tenemos claros los conceptos más básicos de cómo trabajar con Shiny, veamos cómo podemos organizar la interfaz. Las formas en las que distribuimos o repartimos los elementos de la interfaz se suelen denominar como layouts. Hay muchos tipos de layouts y podríamos incluso inventar nuestros propios si lo deseamos. Sin embargo, para los términos de este taller, vamos a utilizar solamente uno, que es probablemente el más simple y también el más utilizado: el SidebarLayout.\nEl SidebarLayout nos permite tener, en un lado, normalmente a la izquierda, los controladores o todos los inputs de nuestra aplicación. En el lado derecho, tenemos un panel más grande y principal donde se mostrarán los resultados, como tablas o gráficos.\n\nlibrary(shiny)\nlibrary(datos)\nlibrary(tidyverse)\n\ndatos &lt;- pinguinos\n\nui &lt;- fluidPage(\n  titlePanel(\"Análisis de Pingüinos\"),\n  sidebarLayout(\n    sidebarPanel(\n      selectInput(\n        inputId = \"especie\",\n        label = \"Seleccione una especie\",\n        choices = c(\"Adelia\", \"Papúa\", \"Barbijo\"),\n        selected = \"Adelia\"\n      ),\n      sliderInput(\n        inputId = \"anio\",\n        label = \"Seleccione un año\",\n        min = 2007,\n        max = 2009,\n        value = 2008\n      )\n    ),\n    mainPanel(\n      plotOutput(\n        outputId = \"grafico\"\n      )\n    )\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$grafico &lt;- renderPlot({\n    df &lt;- datos |&gt; \n      filter(especie == input$especie, anio == input$anio)\n    \n    ggplot(\n      data = df,\n      mapping = aes(\n        x = alto_pico_mm\n      )\n    ) +\n      geom_histogram(color = \"white\") +\n      theme_minimal()\n  })\n  \n}\n\nshinyApp(ui, server)\n\nEl SidebarLayout en Shiny se utiliza para organizar la interfaz de usuario en dos secciones: una barra lateral y un panel principal.\n\nSidebarPanel: Este panel se encuentra dentro del SidebarLayout y contiene todos los elementos de control, como los inputs de la aplicación (por ejemplo, selectInput, sliderInput). Es donde el usuario interactúa para ingresar datos o hacer selecciones.\nMainPanel: También dentro del SidebarLayout, este panel se usa para mostrar los resultados de la aplicación, como gráficos, tablas y otros outputs. Es el área principal donde se visualizan los datos procesados.\n\n\nui &lt;- fluidPage(\n  titlePanel(\"Análisis de Pingüinos\"),\n  sidebarLayout(\n    sidebarPanel(\n      selectInput(\n        inputId = \"especie\",\n        label = \"Seleccione una especie\",\n        choices = c(\"Adelia\", \"Papúa\", \"Barbijo\"),\n        selected = \"Adelia\"\n      ),\n      sliderInput(\n        inputId = \"anio\",\n        label = \"Seleccione un año\",\n        min = 2007,\n        max = 2009,\n        value = 2008\n      )\n    ),\n    mainPanel(\n      plotOutput(\n        outputId = \"grafico\"\n      )\n    )\n  )\n)",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#mapa-ips",
+    "href": "clases/03_Shiny_Burgers.html#mapa-ips",
+    "title": "Shiny Burguers",
+    "section": "Mapa IPS",
+    "text": "Mapa IPS\nAhora que ya podemos crear aplicaciones Shiny simples, vamos a crear una aplicación un poco más grande y compleja. Utilizaremos datos geoespaciales de Costa Rica y nuestro objetivo será que el usuario pueda seleccionar una provincia o varias provincias, y nosotros le mostraremos en un mapa de cantones diferentes indicadores que se utilizan para el cálculo del índice de progreso social en Costa Rica.\n\nDescargar datos aquí\n\n\nlibrary(shiny)\nlibrary(sf)\nlibrary(tidyverse)\n\nmapa &lt;- read_sf(\"clases/cantones_ips_cr.geojson\")\n\nui &lt;- fluidPage(\n  titlePanel(\"Análisis de Pingüinos\"),\n  sidebarLayout(\n    sidebarPanel(\n      selectInput(\n        inputId = \"provincia\",\n        label = \"Seleccione una provincia\",\n        choices = unique(mapa$provincia),\n        selected =  unique(mapa$provincia)[1]\n      ),\n      selectInput(\n        inputId = \"variable\",\n        label = \"Seleccione una variable\",\n        choices = colnames(mapa)[-c(1:5)],\n        selected =  colnames(mapa)[6]\n      )\n    ),\n    mainPanel(\n      plotOutput(\n        outputId = \"grafico\"\n      )\n    )\n  )\n)\n\nserver &lt;- function(input, output, session) {\n  \n  output$grafico &lt;- renderPlot({\n    \n    df &lt;- mapa |&gt; \n      select(var = input$variable)\n    \n    ggplot(\n      data = df,\n      mapping = aes(\n        fill = var\n      )\n    ) +\n      geom_sf(color = \"white\") +\n      scale_fill_viridis_c() +\n      theme_minimal()\n    \n  })\n  \n}\n\nshinyApp(ui, server)\n\n\nMuchas gracias a todos por su participación y dedicación durante este taller. Sé que puede ser cansado y a veces frustrante cuando las cosas no salen perfectas a la primera. Pero recuerden, la clave está en la práctica constante. Cuanto más practiquen, más dominarán estas herramientas y técnicas.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/03_Shiny_Burgers.html#espacio-para-preguntas",
+    "href": "clases/03_Shiny_Burgers.html#espacio-para-preguntas",
+    "title": "Shiny Burguers",
+    "section": "🤔 Espacio para Preguntas",
+    "text": "🤔 Espacio para Preguntas\nAhora abrimos un espacio de 20 minutos para preguntas y consultas. Tomémonos un minuto para contestar cada pregunta, así podemos cubrir todas sus dudas. Estoy aquí para ayudarles, así que no duden en preguntar lo que necesiten.\nNuevamente, gracias por su esfuerzo y entusiasmo. Estoy aquí para apoyarlos en su aprendizaje. ¡Sigamos aprendiendo juntos!\n\n\n¿Quieres aprender más y mejorar tus habilidades con datos? 📊 Inscríbete en nuestros cursos en vivo. 🖥️ Nos adaptamos a tu horario con sesiones personalizadas. ⏰ Aprenderás de un instructor cómo sacar el máximo provecho a esta herramienta para trabajar con datos en R. 📈 Inscríbete aquí.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 2",
+      "Shiny Burgers: Conceptos Básicos"
+    ]
+  },
+  {
+    "objectID": "clases/index.html#objetivos-del-taller",
+    "href": "clases/index.html#objetivos-del-taller",
+    "title": "Introducción a ggplot2 y shiny",
+    "section": "Objetivos del Taller",
+    "text": "Objetivos del Taller\nEl principal objetivo de este taller es proporcionarte las herramientas y conocimientos necesarios para crear visualizaciones de datos efectivas y aplicaciones interactivas utilizando ggplot2 y Shiny. Al finalizar el taller, deberías sentirte cómodo con:\n\nComprender la estructura y lógica de un gráfico en ggplot2: Desarrollar una sólida comprensión de cómo funciona ggplot2 y cómo utilizarlo para crear gráficos diversos como gráficos de barras, líneas, puntos, boxplots e histogramas.\nConceptos básicos de teoría del color para visualización de datos: Aprender a aplicar teoría del color para mejorar la estética y la legibilidad de tus gráficos.\nDesarrollo de mapas: Crear mapas del mundo y mapas específicos de Costa Rica utilizando ggplot2.\nIntroducción a Shiny y sus componentes esenciales: Comprender la estructura de una aplicación Shiny y cómo utilizar inputs, outputs, renders, reactiveValues, eventReactive, observers, entre otros.\nEntender el concepto de reactividad: Dominar cómo funciona la reactividad en Shiny y cómo aprovecharla para crear aplicaciones interactivas.\nCrear un diagrama de funcionamiento de una app con Shiny: Aprender a esquematizar el flujo y funcionamiento de una aplicación Shiny.\nDesplegar una aplicación Shiny en shinyapps.io: Adquirir las habilidades necesarias para poner en línea tus aplicaciones Shiny y compartirlas con el mundo."
+  },
+  {
+    "objectID": "clases/index.html#sobre-el-instructor",
+    "href": "clases/index.html#sobre-el-instructor",
+    "title": "Introducción a ggplot2 y shiny",
+    "section": "Sobre el Instructor",
+    "text": "Sobre el Instructor\n\n\n\n\n\n👋 Hola, soy Carlos Aguero. Soy ingeniero en sistemas de información y, desde 2016, me dedico a enseñar a personas de todas las áreas y niveles de formación a programar en R.\n📚 Formo parte del listado de instructores certificados por RStudio, enfocándome en Tidyverse y Shiny. En diciembre de 2023, tuve el gusto de unirme a los instructores de la organización Software Carpentry.\n\n\n🚀 Actualmente, tengo mi propio proyecto llamado Aprende Tidyverse, donde buscamos ayudar a todos a aprender R y Tidyverse de forma sencilla y a su ritmo."
+  },
+  {
+    "objectID": "clases/semana_1/instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "href": "clases/semana_1/instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Verificación de la Instalación de R y RStudio",
+    "text": "Verificación de la Instalación de R y RStudio\nSi ya has instalado R y RStudio, puede que te preguntes si es necesario seguir los pasos de una nueva instalación. Antes de tomar una decisión, es crucial verificar que tu instalación actual esté completa y actualizada. A menudo, durante la instalación inicial, se pueden pasar por alto algunos componentes esenciales. Aquí te ofrecemos una guía para confirmar si tu instalación cumple con los requisitos necesarios.\n\nPara usuarios de Windows:\n\nConfirma que la versión de R sea superior a 4.1.\nAsegúrate de que RStudio esté actualizado a la última versión.\nVerifica si tienes instalado RTools, un componente esencial para el desarrollo.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\n\n\nPara usuarios de Mac:\n\nComprueba que la versión de R sea superior a 4.1.\nRStudio debe estar actualizado a su última versión.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\nAdemás, para los usuarios de Mac, la instalación requiere pasos adicionales para garantizar la correcta funcionalidad de todos los paquetes. Asegúrate de tener instaladas las siguientes librerías del sistema:\n\ngfortran\ngcc\nxcode\n\nSi tras esta verificación encuentras que tu sistema no cumple con alguno de estos requisitos, o tienes dudas, te recomendamos seguir los pasos de instalación nuevamente para asegurar un entorno de trabajo óptimo con R y RStudio.",
+    "crumbs": [
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "href": "clases/semana_1/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Windows",
+    "text": "Instalación de R y RStudio en Windows",
+    "crumbs": [
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "href": "clases/semana_1/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Mac",
+    "text": "Instalación de R y RStudio en Mac",
+    "crumbs": [
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "href": "clases/semana_1/instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Solicitar asistencia tecnica",
+    "text": "Solicitar asistencia tecnica\nEntendemos que enfrentarse a problemas durante la instalación y configuración de equipos tecnológicos puede resultar particularmente frustrante, especialmente si no te consideras una persona muy técnica. Sin embargo, queremos asegurarte que no estás solo en este proceso y estamos aquí para brindarte el apoyo necesario.\nPara ayudarte a superar estos desafíos y completar el proceso con éxito, te invitamos a agendar una reunión virtual a través de Zoom con uno de nuestros instructores. Ellos te guiarán paso a paso, asegurándose de que tu equipo quede configurado correctamente y listo para usar.\nHaz clic en el siguiente enlace para programar tu reunión y comenzar tu camino hacia una experiencia tecnológica sin estrés.\nProgramar una reunión",
+    "crumbs": [
+      "Semana 1",
+      "Gramática de los gráficos"
+    ]
+  },
+  {
+    "objectID": "clases/instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "href": "clases/instalacion_configuracion.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Verificación de la Instalación de R y RStudio",
+    "text": "Verificación de la Instalación de R y RStudio\nSi ya has instalado R y RStudio, puede que te preguntes si es necesario seguir los pasos de una nueva instalación. Antes de tomar una decisión, es crucial verificar que tu instalación actual esté completa y actualizada. A menudo, durante la instalación inicial, se pueden pasar por alto algunos componentes esenciales. Aquí te ofrecemos una guía para confirmar si tu instalación cumple con los requisitos necesarios.\n\nPara usuarios de Windows:\n\nConfirma que la versión de R sea superior a 4.1.\nAsegúrate de que RStudio esté actualizado a la última versión.\nVerifica si tienes instalado RTools, un componente esencial para el desarrollo.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\n\n\nPara usuarios de Mac:\n\nComprueba que la versión de R sea superior a 4.1.\nRStudio debe estar actualizado a su última versión.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\nAdemás, para los usuarios de Mac, la instalación requiere pasos adicionales para garantizar la correcta funcionalidad de todos los paquetes. Asegúrate de tener instaladas las siguientes librerías del sistema:\n\ngfortran\ngcc\nxcode\n\nSi tras esta verificación encuentras que tu sistema no cumple con alguno de estos requisitos, o tienes dudas, te recomendamos seguir los pasos de instalación nuevamente para asegurar un entorno de trabajo óptimo con R y RStudio.",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "clases/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "href": "clases/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-windows",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Windows",
+    "text": "Instalación de R y RStudio en Windows",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "clases/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "href": "clases/instalacion_configuracion.html#instalación-de-r-y-rstudio-en-mac",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Instalación de R y RStudio en Mac",
+    "text": "Instalación de R y RStudio en Mac",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "clases/instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "href": "clases/instalacion_configuracion.html#solicitar-asistencia-tecnica",
+    "title": "Instalación y Configuración de R y RStudio",
+    "section": "Solicitar asistencia tecnica",
+    "text": "Solicitar asistencia tecnica\nEntendemos que enfrentarse a problemas durante la instalación y configuración de equipos tecnológicos puede resultar particularmente frustrante, especialmente si no te consideras una persona muy técnica. Sin embargo, queremos asegurarte que no estás solo en este proceso y estamos aquí para brindarte el apoyo necesario.\nPara ayudarte a superar estos desafíos y completar el proceso con éxito, te invitamos a agendar una reunión virtual a través de Zoom con uno de nuestros instructores. Ellos te guiarán paso a paso, asegurándose de que tu equipo quede configurado correctamente y listo para usar.\nHaz clic en el siguiente enlace para programar tu reunión y comenzar tu camino hacia una experiencia tecnológica sin estrés.\nProgramar una reunión",
+    "crumbs": [
+      "Lecciones",
+      "Antes de comenzar",
+      "Instalación y configuración"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#verificación-de-la-instalación-de-r-y-rstudio",
+    "title": "Conociendo Rstudio",
+    "section": "Verificación de la Instalación de R y RStudio",
+    "text": "Verificación de la Instalación de R y RStudio\nSi ya has instalado R y RStudio, puede que te preguntes si es necesario seguir los pasos de una nueva instalación. Antes de tomar una decisión, es crucial verificar que tu instalación actual esté completa y actualizada. A menudo, durante la instalación inicial, se pueden pasar por alto algunos componentes esenciales. Aquí te ofrecemos una guía para confirmar si tu instalación cumple con los requisitos necesarios.\n\nPara usuarios de Windows:\n\nConfirma que la versión de R sea superior a 4.1.\nAsegúrate de que RStudio esté actualizado a la última versión.\nVerifica si tienes instalado RTools, un componente esencial para el desarrollo.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\n\n\nPara usuarios de Mac:\n\nComprueba que la versión de R sea superior a 4.1.\nRStudio debe estar actualizado a su última versión.\nVerifica si tienes instalado quarto en una versión superior o igual a la 1.4\n\nAdemás, para los usuarios de Mac, la instalación requiere pasos adicionales para garantizar la correcta funcionalidad de todos los paquetes. Asegúrate de tener instaladas las siguientes librerías del sistema:\n\ngfortran\ngcc\nxcode\n\nSi tras esta verificación encuentras que tu sistema no cumple con alguno de estos requisitos, o tienes dudas, te recomendamos seguir los pasos de instalación nuevamente para asegurar un entorno de trabajo óptimo con R y RStudio.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#instalación-de-r-y-rstudio-en-windows",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#instalación-de-r-y-rstudio-en-windows",
+    "title": "Conociendo Rstudio",
+    "section": "Instalación de R y RStudio en Windows",
+    "text": "Instalación de R y RStudio en Windows",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#instalación-de-r-y-rstudio-en-mac",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#instalación-de-r-y-rstudio-en-mac",
+    "title": "Conociendo Rstudio",
+    "section": "Instalación de R y RStudio en Mac",
+    "text": "Instalación de R y RStudio en Mac",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#solicitar-asistencia-tecnica",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#solicitar-asistencia-tecnica",
+    "title": "Conociendo Rstudio",
+    "section": "Solicitar asistencia tecnica",
+    "text": "Solicitar asistencia tecnica\nEntendemos que enfrentarse a problemas durante la instalación y configuración de equipos tecnológicos puede resultar particularmente frustrante, especialmente si no te consideras una persona muy técnica. Sin embargo, queremos asegurarte que no estás solo en este proceso y estamos aquí para brindarte el apoyo necesario.\nPara ayudarte a superar estos desafíos y completar el proceso con éxito, te invitamos a agendar una reunión virtual a través de Zoom con uno de nuestros instructores. Ellos te guiarán paso a paso, asegurándose de que tu equipo quede configurado correctamente y listo para usar.\nHaz clic en el siguiente enlace para programar tu reunión y comenzar tu camino hacia una experiencia tecnológica sin estrés.\nProgramar una reunión",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html",
+    "href": "clases/semana_1/01_conociendo_rstudio.html",
+    "title": "Conociendo Rstudio",
+    "section": "",
+    "text": "R es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell (Ihaka y Gentleman 1996).\nEn 2000, se lanzó la versión 1.0 de R (R Core Team 2008). Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.\nRStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 (Allaire 2011). RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.\nEn los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común (Wickham et al. 2019).\nEste enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.\nPara comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del “Tidyverse design guide” (Wickham 2019). Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente.\n\n\n\n\nReferencias\n\nAllaire, J. J. 2011. «RStudio: Integrated Development Environment for R». 2011. https://www.r-project.org/conferences/useR-2011/abstracts/180111-allairejj.pdf.\n\n\nIhaka, Ross, y Robert Gentleman. 1996. «R: A Language for Data Analysis and Graphics». Journal of Computational and Graphical Statistics 5 (3): 299-314. https://doi.org/10.1080/10618600.1996.10474713.\n\n\nR Core Team. 2008. R: A Language and Environment for Statistical Computing. Vienna, Austria: R Foundation for Statistical Computing. https://ringo.ams.stonybrook.edu/images/2/2b/Refman.pdf.\n\n\nWickham, Hadley. 2019. «Tidyverse design guide». 2019. https://tidyverse.tidyverse.org/articles/manifesto.html.\n\n\nWickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019. «Welcome to the tidyverse». Journal of Open Source Software 4 (43): 1686. https://doi.org/10.21105/joss.01686.\n\nReutilizaciónEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(Ver Licencia)Derechos de autorCopyright Aprende Tidyverse. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#historia-rápida-de-r-y-rstudio",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#historia-rápida-de-r-y-rstudio",
+    "title": "Conociendo Rstudio",
+    "section": "Historia rápida de R y Rstudio",
+    "text": "Historia rápida de R y Rstudio\nR es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell (Ihaka y Gentleman 1996).\nEn 2000, se lanzó la versión 1.0 de R (R Core Team 2008). Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.\nRStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 (Allaire 2011). RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.\nEn los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común (Wickham et al. 2019).\nEste enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.\nPara comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del “Tidyverse design guide” (Wickham 2019). Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/02_sintaxis_basica.html",
+    "href": "clases/semana_1/02_sintaxis_basica.html",
+    "title": "",
+    "section": "",
+    "text": "@article{Ihaka1996, author = {Ihaka, Ross and Gentleman, Robert}, title = {R: A Language for Data Analysis and Graphics}, journal = {Journal of Computational and Graphical Statistics}, volume = {5}, number = {3}, pages = {299–314}, year = {1996}, doi = {10.1080/10618600.1996.10474713} }\n@manual{RCoreTeam2008, title = {R: A Language and Environment for Statistical Computing}, author = {{R Core Team}}, organization = {R Foundation for Statistical Computing}, address = {Vienna, Austria}, year = {2008}, url = {https://ringo.ams.stonybrook.edu/images/2/2b/Refman.pdf} }\n@online{Allaire2011, author = {Allaire, J.J.}, title = {RStudio: Integrated Development Environment for R}, year = {2011}, url = {https://www.r-project.org/conferences/useR-2011/abstracts/180111-allairejj.pdf}, urldate = {2024-06-29} }\n@article{Wickham2019, author = {Wickham, Hadley and Averick, Mara and Bryan, Jennifer and Chang, Winston and McGowan, Lucy D’Agostino and François, Romain and Grolemund, Garrett and Hayes, Alex and Henry, Lionel and Hester, Jim and Kuhn, Max and Pedersen, Thomas Lin and Miller, Evan and Bache, Stephan Milton and Müller, Kirill and Ooms, Jeroen and Robinson, David and Seidel, Dana Paige and Spinu, Vitalie and Takahashi, Kohske and Vaughan, Davis and Wilke, Claus and Woo, Kara and Yutani, Hiroaki}, title = {Welcome to the {tidyverse}}, journal = {Journal of Open Source Software}, volume = {4}, number = {43}, pages = {1686}, year = {2019}, doi = {https://joss.theoj.org/papers/10.21105/joss.01686} }\n@online{Wickham2019Guide, author = {Wickham, Hadley}, title = {Tidyverse design guide}, year = {2019}, url = {https://tidyverse.tidyverse.org/articles/manifesto.html}, urldate = {2024-06-29} }\n\n\n\nReuseEste trabajo está licenciado bajo la Licencia Internacional  Creative Commons Atribución-NoComercial-SinDerivadas 4.0 (CC BY-NC-ND 4.0). Eres libre de compartir este material siempre que otorgues el crédito adecuado, no lo utilices para fines comerciales, y no hagas obras derivadas.\n(View License)CopyrightCopyright Aprende Tidyverse. 2024. Todos los derechos reservados.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Sintaxis básica"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/02_sintaxis_basica.html#historia-rápida-de-r-y-rstudio",
+    "href": "clases/semana_1/02_sintaxis_basica.html#historia-rápida-de-r-y-rstudio",
+    "title": "Sintáxis básica de R",
+    "section": "Historia rápida de R y Rstudio",
+    "text": "Historia rápida de R y Rstudio\nR es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell (Ihaka y Gentleman 1996).\nEn 2000, se lanzó la versión 1.0 de R (R Core Team 2008). Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.\nRStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 (Allaire 2011). RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.\nEn los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común (Wickham et al. 2019).\nEste enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.\nPara comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del “Tidyverse design guide” (Wickham 2019). Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Sintaxis básica"
+    ]
+  },
+  {
+    "objectID": "clases/semana_1/03_instalacion_paquetes.html#historia-rápida-de-r-y-rstudio",
+    "href": "clases/semana_1/03_instalacion_paquetes.html#historia-rápida-de-r-y-rstudio",
+    "title": "Paquetes en R 📦",
+    "section": "Historia rápida de R y Rstudio",
+    "text": "Historia rápida de R y Rstudio\nR es un lenguaje de programación y entorno de software libre para análisis estadístico y gráfico. Fue creado en 1993 por Ross Ihaka y Robert Gentleman en la Universidad de Auckland, Nueva Zelanda, como una implementación de código abierto del lenguaje S desarrollado por John Chambers en los Laboratorios Bell (Ihaka y Gentleman 1996).\nEn 2000, se lanzó la versión 1.0 de R (R Core Team 2008). Desde entonces, ha ganado popularidad en la comunidad estadística y de ciencia de datos debido a su flexibilidad y capacidad para crear gráficos de alta calidad.\nRStudio, por otro lado, es un entorno de desarrollo integrado (IDE) para R. Fue fundado por JJ Allaire en 2009, con la primera versión beta pública lanzada en febrero de 2011 (Allaire 2011). RStudio facilita el uso de R al proporcionar una interfaz gráfica amigable, herramientas de depuración, visualización de datos y gestión de proyectos.\nEn los últimos años, el enfoque de R se ha desplazado hacia la accesibilidad para no programadores, principalmente a través del ecosistema tidyverse. Tidyverse, introducido por Hadley Wickham en 2016, es una colección de paquetes de R diseñados para ciencia de datos que comparten una filosofía de diseño común (Wickham et al. 2019).\nEste enfoque ha simplificado significativamente el análisis de datos para usuarios sin experiencia en programación, permitiéndoles realizar análisis complejos con código más intuitivo y legible.\nPara comprender mejor la filosofía detrás de tidyverse, se recomienda encarecidamente la lectura del “Tidyverse design guide” (Wickham 2019). Este documento explica detalladamente los principios y la visión que guían el desarrollo de tidyverse, ofreciendo una comprensión más profunda de cómo este ecosistema está diseñado para hacer que el análisis de datos sea más accesible y eficiente."
+  },
+  {
+    "objectID": "clases/semana_1/01_conociendo_rstudio.html#ejecutar-código",
+    "href": "clases/semana_1/01_conociendo_rstudio.html#ejecutar-código",
+    "title": "Conociendo Rstudio",
+    "section": "Ejecutar código",
+    "text": "Ejecutar código\n\nPress Ctrl + Enter or ⌘ + Enter to execute the command.",
+    "crumbs": [
+      "Lecciones",
+      "Semana 1",
+      "Conociendo RStudio"
+    ]
+  }
+]

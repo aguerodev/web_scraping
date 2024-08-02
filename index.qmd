@@ -1,0 +1,50 @@
+---
+title: "Web Scraping y Automatización con R 📊🤖"
+subtitle: "Domina la extracción y depuración de datos web con R"
+lang: "es"
+toc: true
+comments: false
+author: ""
+---
+
+Estamos emocionados de acompañarte en este viaje hacia el dominio de R y el fascinante mundo de la ciencia de datos. Este curso ha sido diseñado pensando en ti, sin importar si eres un principiante absoluto o si ya tienes algunas nociones básicas de programación. A lo largo de las próximas 6 semanas, te sumergirás en el universo de R y el tidyverse, descubriendo cómo estas poderosas herramientas pueden transformar la manera en que analizas datos.
+
+### Al finalizar este curso, serás capaz de
+
++ Dominar el scraping estático de páginas web con rvest.
+
++ Extraer datos de sitios web dinámicos con RSelenium.
+
++ Utilizar métodos de API con httr2 para integrar y enviar datos.
+
++ Optimizar la limpieza y análisis de datos con ChatGPT.
+
++ Aplicar programación funcional con purrr.
+
++ Automatizar procesos ETL con GitHub Actions y DuckDB.
+
+Prepárate para un viaje emocionante y desafiante que no solo ampliará tus habilidades técnicas, sino que también te abrirá nuevas oportunidades en el campo de la ciencia de datos. ¡Estamos ansiosos por ver todo lo que lograrás en las próximas semanas!
+
+## Sobre el Instructor
+<style>
+.add-space {
+  padding-right: 1%;
+}
+</style>
+
+:::: {.columns}
+
+::: {.column width="20%" .add-space}
+![](me.png){width=100%}
+:::
+
+::: {.column width="70%"}
+
+  👋 Hola, soy [Carlos Aguero](www.linkedin.com/in/carlos-aguero-cr). Soy ingeniero en sistemas de información y, desde 2016, me dedico a enseñar a personas de todas las áreas y niveles de formación a programar en R.
+
+📚 Formo parte del listado de [instructores certificados por RStudio](https://education.rstudio.com/trainers/), enfocándome en **Tidyverse** y **Shiny**. En diciembre de 2023, tuve el gusto de unirme a los instructores de la organización [Software Carpentry](https://www.software-carpentry.org).
+:::
+
+::::
+
+Creo que cualquiera puede dominar R con la guía adecuada. Mi compromiso es que cada concepto y ejercicio sean accesibles, comprensibles y estar para aclarar tus dudas. Quiero encender tu pasión por los datos. Juntos, descubriremos el enorme potencial que puedes desbloquear al combinar tu talento y formación con la capacidad de analizar datos 📊📚.
